@@ -1,1 +1,4 @@
 # testTOC
+
+* TOC
+{:toc}
